@@ -14,7 +14,7 @@ html {
 }
 
 header {
-    margin-top: 102px;
+    padding-top: 102px;
     margin: 0 auto;
     width: fit-content;
     max-width: 540px;
